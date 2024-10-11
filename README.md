@@ -96,7 +96,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/emmanuel-l%C3%B3pez-saldarriaga-720179303/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  your-linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -104,7 +104,7 @@
 <br>
 
 <li>
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:emmanuellop3z93@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  your-email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -132,4 +132,4 @@
 
 <br>
 
-Credit: [Emmanuel](https://github.com/your-username)
+Credit: [Emmanuel](https://github.com/emmanuellopezsalda)
